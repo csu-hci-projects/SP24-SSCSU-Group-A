@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+}
+
+
+.app {
+  background-color: #fafafa;
+  /* height: 100vh; */
+  /* background-color: black; */
+}
+
+.app_header {
+  background-color: white;
+  padding: 0.5vh;
+  border-bottom: 0.2vh solid lightgray;
+  border: round;
+  display: flex;
+  justify-content: space-between;
+  max-height: 20vh;
+  /* height: 10vh */
+}
+
+.app_header_modal {
+  margin: auto 1vw auto auto;
+}
+
+
+.app_posts {
+  padding: 20px;
+  display: flex;
+  width: 98%;
+  background-color: black;
+
+}
+
+.app_posts_left {
+  margin: 1vh 10% auto 2%;
+  max-width: 60%;
+}
+
+.app_posts_right {
+  /* background-color: white; */
+}

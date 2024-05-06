@@ -1,0 +1,9 @@
+.ad {
+    /* width: 30vw; */
+    margin: auto auto 1vw auto;
+}
+
+.ad_image {
+    width: 30vw;
+    object-fit: contain;
+}
